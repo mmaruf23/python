@@ -2,4 +2,4 @@
 nama = "Maruf"
 usia = 23
 if(usia>20):
- print("Njir si ", nama, "dah tua"
+ print("Njir si ", nama, "dah tua")
