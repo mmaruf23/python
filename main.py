@@ -1,2 +1,2 @@
 # python code here
-print("hello Laras. Siap belajar python?")
+print("Hello Laras, Selamat Mencoba")
